@@ -1,0 +1,6 @@
+{
+  "name": "MindSpark - AI Study Planner",
+  "description": "AI-powered smart study planner dashboard with personalized roadmaps, task tracking, study stats, AI mentor chat, and smart notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
