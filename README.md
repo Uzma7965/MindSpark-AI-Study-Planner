@@ -1,0 +1,1 @@
+# MindSpark-Ai-Study-Planner
